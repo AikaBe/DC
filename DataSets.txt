@@ -1,0 +1,8 @@
+DataSet for Lab 5 :
+Just enter this code in terminal:
+wget https://github.com/LGDoor/Dump-of-Simple-English-Wiki/raw/refs/heads/master/corpus.tgz
+
+DataSet for Lab 6:
+Link to DataSet:
+https://www.kaggle.com/datasets/shrutimechlearn/churn-modelling
+You can download zip file and than use it 
